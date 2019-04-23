@@ -14,6 +14,7 @@ With this library you can create objects for e.g. 433MHz Door/Window sensors - m
 - Create sensor object with predefined constructor to create with initial ID and main MQTT topic _OR_
 - Create sensor object with default constructor, then use init function later
 - Optimal usage is to prepare an array of sensor objects and fill it later according to setup
+- Please find usecase/example here: https://github.com/andreaslink-de/ESP8266_433MHz-Receiver_sending_MQTT
 
 ### Todo
 - Extend documentation
