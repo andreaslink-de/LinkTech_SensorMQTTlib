@@ -1,0 +1,21 @@
+{
+    "name": "LinkTech-SensorMQTT",
+    "description": "Simplifies handling of Stabo 433MHz Door/Window sensors using MQTT.",
+    "keywords": "linktech, link-technologies, mqtt, door, window, 433mhz, sensor, stabo, ",
+    "version": "1.0.0",
+    "homepage": "https://www.andreaslink.de",
+    "frameworks": "Arduino",
+    "platforms": "*",
+    "authors": [
+        {
+            "name": "Dipl.-Inform. (FH) Andreas Link",
+            "email": "arduino@andreaslink.de",
+            "url": "http://www.andreaslink.de",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andreaslink-de/LinkTech_SensorMQTTlib"
+    }    
+}
